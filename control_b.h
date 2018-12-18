@@ -33,5 +33,7 @@ typedef struct{
 }b_type;
 
 
+extern void calc(b_type *b);//计算
+
 
 #endif //ROBOT_B_V2_CONTROL_B_H
