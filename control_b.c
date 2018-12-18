@@ -5,6 +5,8 @@
 #include "control_b.h"
 
 #include <math.h>
+#include <stdio.h>
+
 
 
 
