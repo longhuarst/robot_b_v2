@@ -3,27 +3,6 @@
 #include <math.h>
 
 
-#define PI (3.14)
-
-typedef struct{
-
-    float a;
-    float b;
-
-
-    float x;
-    float y;
-
-    float R;
-
-    float cita;
-    float beta;
-    float gama;
-    float alpha;
-
-
-}b_type;
-
 
 
 
